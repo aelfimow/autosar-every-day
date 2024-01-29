@@ -1,9 +1,9 @@
 # Day 1
 
-* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf
-** Application Layer
-** Runtime Environment (RTE)
-** Basic Software (BSW)
+* From AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf
 
-
+3 Layers:
+* Application Layer
+* Runtime Environment (RTE)
+* Basic Software (BSW)
 
