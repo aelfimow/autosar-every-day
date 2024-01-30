@@ -17,3 +17,11 @@ ECU Abstraction Layer (p. 24):
 * Communication Hardware Abstraction
 * I/O Hardware Abstraction
 
+Microcontroller Abstraction Layer (p. 24):
+* Microcontroller Drivers
+* Memory Drivers
+* Crypto Drivers
+* Wireless Communication Drivers
+* Communication Drivers
+* I/O Drivers
+
