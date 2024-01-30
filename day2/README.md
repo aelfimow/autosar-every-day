@@ -8,3 +8,12 @@ Services Layer (p. 24):
 * Crypto Services
 * Off-board Communication Services
 * Communication Services
+
+ECU Abstraction Layer (p. 24):
+* Onboard Device Abstraction
+* Memory Hardware Abstraction
+* Crypto Hardware Abstraction
+* Wireless Communication Hardware Abstraction
+* Communication Hardware Abstraction
+* I/O Hardware Abstraction
+
