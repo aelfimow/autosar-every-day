@@ -9,9 +9,9 @@ Memory service modules (p. 95)
 
 PDU flow: (p. 105)
 
-Naming Conventions (p. 106)
-PDU: `bus prefix``layer prefix`-PDU
-SDU: `bus prefix``layer prefix`-SDU
+Naming Conventions (p. 106):
+* PDU: `bus prefix` `layer prefix`-PDU
+* SDU: `bus prefix` `layer prefix`-SDU
 
 Layer 6: Presentation (Interaction)
 * I-PDU
