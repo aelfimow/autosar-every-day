@@ -2,13 +2,13 @@
 
 ## B
 
-__BndM__: Bulk NV Data Manager
+`BndM`: Bulk NV Data Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 98
 
-__BManif__: Binary Manifest
+`BManif`: Binary Manifest
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 119
 
-__BswM__: Basic Software Mode Manager
+`BswM`: Basic Software Mode Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 75
 
 ## C
