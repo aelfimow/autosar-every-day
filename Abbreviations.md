@@ -13,67 +13,67 @@
 
 ## C
 
-__CF__: Consecutive Frame
+`CF`: Consecutive Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
 ## D
 
-__DDS__: Data Distribution Services
+`DDS`: Data Distribution Services
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 63
 
 ## F
 
-__FC__: Flow Control
+`FC`: Flow Control
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
-__FF__: First Frame
+`FF`: First Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
 ## I
 
-__ICC__: Implementation Conformance Class
+`ICC`: Implementation Conformance Class
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 81
 
-__IOC__: Inter OsApplication Communication
+`IOC`: Inter OsApplication Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 76
 
 ## N
 
-__NM__: Network Management
+`NM`: Network Management
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 50
 
-__NV__: Non-Volatile
+`NV`: Non-Volatile
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 95
 
 ## O
 
-__OMG__: Object Management Group
+`OMG`: Object Management Group
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 64
 
 ## P
 
-__PCI__: Protocol Control Information
+`PCI`: Protocol Control Information
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
 
-__PDU__: Protocol Data Unit
+`PDU`: Protocol Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
 
 ## S
 
-__SBC__: System Basis Chip, e.g. transceiver, watchdog
+`SBC`: System Basis Chip, e.g. transceiver, watchdog
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 32
 
-__SC__: Sequence Counter
+`SC`: Sequence Counter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 114
 
-__SDU__: Service Data Unit
+`SDU`: Service Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
 
-__SF__: Single Frame
+`SF`: Single Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
-__SoAd__: Socket Adapter
+`SoAd`: Socket Adapter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 62
 
-__SwCluC__: Software Cluster Connection
+`SwCluC`: Software Cluster Connection
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 119
