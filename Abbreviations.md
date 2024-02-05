@@ -5,6 +5,9 @@
 __BndM__: Bulk NV Data Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 98
 
+__BManif__: Binary Manifest
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 119
+
 __BswM__: Basic Software Mode Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 75
 
@@ -60,6 +63,9 @@ __PDU__: Protocol Data Unit
 __SBC__: System Basis Chip, e.g. transceiver, watchdog
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 32
 
+__SC__: Sequence Counter
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 114
+
 __SDU__: Service Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
 
@@ -68,3 +74,6 @@ __SF__: Single Frame
 
 __SoAd__: Socket Adapter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 62
+
+__SwCluC__: Software Cluster Connection
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 119
