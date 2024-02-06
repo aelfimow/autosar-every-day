@@ -36,3 +36,15 @@ Scheduling (p. 144)
 Mode management (p. 156)
 * Mode manager in each OS-Application
 
+Type of errors (p. 160)
+* Hardware errors
+* Hardware failure
+* Software errors
+* System errors
+
+Error classes (p. 161)
+* Development errors
+* Runtime errors
+* Transient faults
+* Production errors
+* Extended production errors
