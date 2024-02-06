@@ -9,7 +9,7 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 119
 
 `BswM`: Basic Software Mode Manager
-* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 75
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 75, p. 157
 
 ## C
 
@@ -18,8 +18,22 @@
 
 ## D
 
+`Dem`: Diagnostic Event Manager
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
+
+`Det`: Default Error Trace
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
+
 `DDS`: Data Distribution Services
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 63
+
+`Dlt`: Diagnostic Log and Trace
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
+
+## E
+
+`E2E`: End to End Communication
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 
 ## F
 
@@ -28,6 +42,9 @@
 
 `FF`: First Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
+
+`FiM`: Function Inhibition Manager
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 
 ## I
 
