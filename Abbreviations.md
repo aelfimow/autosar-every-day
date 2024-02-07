@@ -19,10 +19,10 @@
 ## D
 
 `Dem`: Diagnostic Event Manager
-* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
 
 `Det`: Default Error Trace
-* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
 
 `DDS`: Data Distribution Services
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 63
@@ -46,15 +46,40 @@
 `FiM`: Function Inhibition Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 
+`FV`: Freshness Value
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 178, p. 193
+
+`FVM`: Freshness Value Manager
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 193
+
 ## I
+
+`I`: Interaction (Layer 6, Presentation)
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
 `ICC`: Implementation Conformance Class
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 81
 
+`ICV`: Integrity Check Value
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 193
+
 `IOC`: Inter OsApplication Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 76
 
+## L
+
+`L`: Data Link Layer (Layer 2)
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
+
+## M
+
+`MAC`: Message Authentication Code
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 178
+
 ## N
+
+`N`: Network Layer (Layer 3)
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
 `NM`: Network Management
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 50
@@ -75,6 +100,12 @@
 `PDU`: Protocol Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
 
+`PN`: Partial Networking
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 186
+
+`PNC`: Partial Network Cluster
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
+
 ## S
 
 `SBC`: System Basis Chip, e.g. transceiver, watchdog
@@ -82,6 +113,9 @@
 
 `SC`: Sequence Counter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 114
+
+`SecOC`: Secure Onboard Communication
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 179
 
 `SDU`: Service Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
@@ -92,5 +126,13 @@
 `SoAd`: Socket Adapter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 62
 
+`StbM`: Synchronized Timebase Manager
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 192
+
 `SwCluC`: Software Cluster Connection
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 119
+
+## V
+
+`VFC`: Virtual Function Cluster
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
