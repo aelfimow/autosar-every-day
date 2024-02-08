@@ -40,6 +40,9 @@
 `FC`: Flow Control
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
+`FDIR`: Fault Detection, Isolation, Recovery
+* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 10
+
 `FF`: First Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
