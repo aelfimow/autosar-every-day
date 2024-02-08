@@ -37,4 +37,9 @@ Error types (p. 15)
 * Program flow
 * Access
 * Timing
-* Asymmetric
+* Asymmetric (Byzantine errors)
+
+Not included in this pdf:
+* Communication errors
+* Deadlocks and livelocks
+* Faults and errors in instruction code
