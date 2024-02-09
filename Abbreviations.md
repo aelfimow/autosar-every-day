@@ -16,6 +16,12 @@
 `CF`: Consecutive Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
+`CORTST`: Core Test
+* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
+
+`CSM`: Crypto Service Manager
+* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 26
+
 ## D
 
 `Dem`: Diagnostic Event Manager
@@ -48,6 +54,9 @@
 
 `FiM`: Function Inhibition Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
+
+`FLSTST`: Flash Test
+* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
 
 `FV`: Freshness Value
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 178, p. 193
@@ -139,3 +148,8 @@
 
 `VFC`: Virtual Function Cluster
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
+
+## W
+
+`WdgM`: Watchdog Manager
+* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 27
