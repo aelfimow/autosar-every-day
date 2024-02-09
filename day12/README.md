@@ -22,3 +22,23 @@ Threats to data security (p. 25):
 * elevation of privileges
 
 Execution sequence monitoring (p. 26)
+
+Aliveness monitoring (p. 28)
+
+Three states (p. 29)
+* `WDGM_MONITORING_OK`
+* `WDGM_MONITORING_FAILED`
+* `WDGM_MONITORING_EXPIRED`
+
+Status and Mode Management (p. 29)
+
+Signal meta information (p. 30):
+* signal quality
+* signal timestamp
+* signal sequence number
+* update information
+
+Return value `Rte_IStatus` (p. 31)
+* `RTE_E_OK`
+* `RTE_E_INVALID`
+* `RTE_E_MAX_AGE_EXCEEDED`
