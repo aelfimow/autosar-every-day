@@ -19,6 +19,9 @@
 `CORTST`: Core Test
 * From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
 
+`ComM`: Communication Manager
+* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31
+
 `CSM`: Crypto Service Manager
 * From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 26
 
@@ -40,6 +43,9 @@
 
 `E2E`: End to End Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
+
+`EcuM`: ECU State Manager
+* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31
 
 ## F
 
@@ -103,6 +109,9 @@
 
 `OMG`: Object Management Group
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 64
+
+`OS`: Operating System
+* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 29
 
 ## P
 
