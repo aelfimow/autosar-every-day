@@ -17,24 +17,28 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
 `CORTST`: Core Test
-* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
 
 `ComM`: Communication Manager
-* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31
 
 `CSM`: Crypto Service Manager
-* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 26
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 26
 
 ## D
 
-`Dem`: Diagnostic Event Manager
-* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
-
-`Det`: Default Error Trace
-* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
+`DCM`: Diagnostic Communication Manager
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35
 
 `DDS`: Data Distribution Services
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 63
+
+`DEM`: Diagnostic Event Manager
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35
+
+`Det`: Default Error Trace
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
 
 `Dlt`: Diagnostic Log and Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
@@ -45,7 +49,7 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 
 `EcuM`: ECU State Manager
-* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31, p. 35
 
 ## F
 
@@ -53,16 +57,17 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
 `FDIR`: Fault Detection, Isolation, Recovery
-* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 10
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 10
 
 `FF`: First Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
-`FiM`: Function Inhibition Manager
+`FIM`: Function Inhibition Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 32
 
 `FLSTST`: Flash Test
-* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
 
 `FV`: Freshness Value
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 178, p. 193
@@ -111,7 +116,7 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 64
 
 `OS`: Operating System
-* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 29
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 29
 
 ## P
 
@@ -161,4 +166,4 @@
 ## W
 
 `WdgM`: Watchdog Manager
-* From AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 27
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 27, p. 35
