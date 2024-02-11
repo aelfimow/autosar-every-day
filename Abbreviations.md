@@ -35,7 +35,7 @@
 
 `DEM`: Diagnostic Event Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
-* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35, p. 37
 
 `Det`: Default Error Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
@@ -157,6 +157,9 @@
 
 `SwCluC`: Software Cluster Connection
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 119
+
+`SWC-T`: Software Component Template
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 40
 
 ## V
 
