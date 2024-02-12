@@ -1,5 +1,10 @@
 # Abbreviations
 
+## A
+
+`ALEM`: Application Level Error Manager
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 48, p. 49
+
 ## B
 
 `BndM`: Bulk NV Data Manager
@@ -68,6 +73,9 @@
 
 `FLSTST`: Flash Test
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
+
+`FMF`: Fault Management Framework
+* AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 49
 
 `FV`: Freshness Value
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 178, p. 193
