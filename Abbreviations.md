@@ -2,8 +2,14 @@
 
 ## A
 
+`AI Table`: Application Interface Table
+* AUTOSAR\_EXP\_AIUserGuide.pdf, p. 8
+
 `ALEM`: Application Level Error Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 48, p. 49
+
+`ARXML`: AUTOSAR XML
+* AUTOSAR\_EXP\_AIUserGuide.pdf, p. 7
 
 ## B
 
@@ -166,6 +172,9 @@
 `SwCluC`: Software Cluster Connection
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 119
 
+`SWC`, `SW-C`: Software Component
+* AUTOSAR\_EXP\_AIUserGuide.pdf, p. 7
+
 `SWC-T`: Software Component Template
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 40
 
@@ -178,3 +187,11 @@
 
 `WdgM`: Watchdog Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 27, p. 35
+
+## X
+
+`XML`: Extensible Markup Language
+* AUTOSAR\_EXP\_AIUserGuide.pdf, p. 8
+
+`XSD`: XML Schema Definition
+* AUTOSAR\_EXP\_AIUserGuide.pdf, p. 8
