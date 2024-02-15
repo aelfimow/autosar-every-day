@@ -26,3 +26,19 @@ Category of Model Elements: EXAMPLE (p. 15)
 * `CompuMethods`
 * `DataConstrs`
 * `PortInterfaces`
+
+`CompositionSwComponentType`
+* allow the encapsulation of specific functionality by aggregating existing software-components (p. 16)
+* is also a `SwComponentType`
+
+```
+M2::AUTOSARTemplates::SWComponentTemplate::Composition
+```
+
+`SwComponentType`
+* multiple instantiation (p. 17)
+
+(p. 19):
+```
+M2::AUTOSARTemplates::SWComponentTemplate:: Components
+```
