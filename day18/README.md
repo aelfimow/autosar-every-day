@@ -10,5 +10,19 @@ Category of Model Elements: STANDARD (p. 14)
 * `Units`
 * `LifeCycleInfoSets`
 
-Category of Model Elements: BLUEPRINT (p. ?)
-Category of Model Elements: EXAMPLE (p. ?)
+Category of Model Elements: BLUEPRINT (p. 14)
+* `ApplicationDataTypes`
+* `CompuMethods`
+* `DataConstraints`
+* `KeywordSets`
+* `PortInterfaces`
+* `PortPrototypeBlueprints`
+* `Collections`
+
+Category of Model Elements: EXAMPLE (p. 15)
+* `SwComponentTypes`
+* `ApplicationDataTypes`
+* `BlueprintMappingSets`
+* `CompuMethods`
+* `DataConstrs`
+* `PortInterfaces`
