@@ -27,5 +27,17 @@ M2::AUTOSARTemplates::SWComponentTemplate::PortInterface
 
 `DataTypes` (p. 27)
 * `ApplicationDataType`
+```
+M2::AUTOSARTemplates::SWComponentTemplate::DataType::DataTypes
+```
+* `ApplicationArrayDataType` with `maxNumberOfElements`
+* `ApplicationRecordDataType`
 
-p. 29
+Physical Units (p. 33)
+
+Keyword attributes: (p. 35)
+* ShortName
+* longName
+* desc
+* abbrName
+* classification
