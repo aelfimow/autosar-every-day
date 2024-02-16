@@ -5,6 +5,9 @@
 `AI Table`: Application Interface Table
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 8
 
+`AIT`: Application Interface Tooling
+* AUTOSAR\_EXP\_AIUserGuide.pdf, p. 34
+
 `ALEM`: Application Level Error Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 48, p. 49
 
