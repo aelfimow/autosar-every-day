@@ -116,6 +116,9 @@
 `MAC`: Message Authentication Code
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 178
 
+`MmedTelmHmi`: Multimedia, Telematics, HMI
+* AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
+
 ## N
 
 `N`: Network Layer (Layer 3)
@@ -128,6 +131,9 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 95
 
 ## O
+
+`OccptPedSfty`: Occupant and Pedestrian Safety
+* AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
 
 `OMG`: Object Management Group
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 64
@@ -148,6 +154,9 @@
 
 `PNC`: Partial Network Cluster
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
+
+`Pt`: Powertrain
+* AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
 
 ## S
 
