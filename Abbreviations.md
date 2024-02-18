@@ -149,6 +149,9 @@
 `PDU`: Protocol Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
 
+`PL_List`: Physical and Logical List
+* AUTOSAR\_EXP\_AIUserGuide.pdf, p. 72
+
 `PN`: Partial Networking
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 186
 
