@@ -11,6 +11,9 @@
 `ALEM`: Application Level Error Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 48, p. 49
 
+`ARTI`: AUTOSAR RunTimeInterface
+* AUTOSAR\_EXP\_ClassicPlatformARTI.pdf (p. 1)
+
 `ARXML`: AUTOSAR XML
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 7
 
@@ -137,6 +140,9 @@
 
 `OMG`: Object Management Group
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 64
+
+`ORTI`: ? RunTimeInterface
+* AUTOSAR\_EXP\_ClassicPlatformARTI.pdf (p. 4)
 
 `OS`: Operating System
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 29
