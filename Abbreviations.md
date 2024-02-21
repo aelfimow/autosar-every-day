@@ -17,6 +17,9 @@
 `ARXML`: AUTOSAR XML
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 7
 
+`ASAM`: ?
+* AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 8
+
 ## B
 
 `BndM`: Bulk NV Data Manager
@@ -119,6 +122,9 @@
 `MAC`: Message Authentication Code
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 178
 
+`MDF`: Measuremend Data Format
+* AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 10
+
 `MmedTelmHmi`: Multimedia, Telematics, HMI
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
 
@@ -141,8 +147,8 @@
 `OMG`: Object Management Group
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 64
 
-`ORTI`: ? RunTimeInterface
-* AUTOSAR\_EXP\_ClassicPlatformARTI.pdf (p. 4)
+`ORTI`: OSEK RunTimeInterface
+* AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 4, p. 7
 
 `OS`: Operating System
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 29
