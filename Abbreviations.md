@@ -144,6 +144,9 @@
 `OccptPedSfty`: Occupant and Pedestrian Safety
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
 
+`OLDA`: Online Data Acquistion
+* AUTOSAR\_EXP\_ClassicPlatformARTI.pdf (p. 36)
+
 `OMG`: Object Management Group
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 64
 
