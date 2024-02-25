@@ -33,6 +33,9 @@
 
 ## C
 
+`CDD`: Complex Device Driver (or Complex Driver)
+* AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 7
+
 `CF`: Consecutive Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
