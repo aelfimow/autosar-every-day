@@ -101,6 +101,11 @@
 `FVM`: Freshness Value Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 193
 
+## G
+
+`GCE`: ?
+* AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, (p. 16)
+
 ## I
 
 `I`: Interaction (Layer 6, Presentation)
@@ -208,8 +213,9 @@
 `SWC`, `SW-C`: Software Component
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 7
 
-`SWC-T`: Software Component Template
+`SWC-T`, `SWCT`: Software Component Template
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 40
+* AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 15
 
 ## V
 
