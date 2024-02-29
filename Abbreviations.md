@@ -231,7 +231,7 @@
 ## X
 
 `XCP`: ?
-* AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 21
+* AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 21
 
 `XML`: Extensible Markup Language
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 8
