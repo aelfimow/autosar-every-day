@@ -119,6 +119,7 @@
 
 `IOC`: Inter OsApplication Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 76
+* AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 23
 
 ## L
 
@@ -228,6 +229,9 @@
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 27, p. 35
 
 ## X
+
+`XCP`: ?
+* AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 21
 
 `XML`: Extensible Markup Language
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 8
