@@ -190,6 +190,9 @@
 `SBC`: System Basis Chip, e.g. transceiver, watchdog
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 32
 
+`SchM`: Scheduler Manager
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 10
+
 `SC`: Sequence Counter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 114
 
