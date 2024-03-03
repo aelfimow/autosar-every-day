@@ -121,6 +121,9 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 76
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 23
 
+`IPDU`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 13)
+
 ## L
 
 `L`: Data Link Layer (Layer 2)
@@ -173,6 +176,9 @@
 `PDU`: Protocol Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
 
+`PduR`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 12)
+
 `PL_List`: Physical and Logical List
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 72
 
@@ -191,7 +197,7 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 32
 
 `SchM`: Scheduler Manager
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 10
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 10, p. 13
 
 `SC`: Sequence Counter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 114
