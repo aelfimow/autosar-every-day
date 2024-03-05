@@ -22,11 +22,14 @@
 
 ## B
 
-`BndM`: Bulk NV Data Manager
-* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 98
+`BMC`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 20
 
 `BManif`: Binary Manifest
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 119
+
+`BndM`: Bulk NV Data Manager
+* AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 98
 
 `BswM`: Basic Software Mode Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 75, p. 157
@@ -120,6 +123,7 @@
 `IOC`: Inter OsApplication Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 76
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 23
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 20
 
 `IPDU`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 13)
@@ -196,8 +200,8 @@
 `SBC`: System Basis Chip, e.g. transceiver, watchdog
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 32
 
-`SchM`: Scheduler Manager
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 10, p. 13
+`SchM`: (Basic Software) Scheduler Manager
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 10, p. 13, p. 20
 
 `SC`: Sequence Counter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 114
