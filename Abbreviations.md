@@ -34,6 +34,9 @@
 `BswM`: Basic Software Mode Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 75, p. 157
 
+`BSWMD`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 25
+
 ## C
 
 `CDD`: Complex Device Driver (or Complex Driver)
@@ -76,6 +79,7 @@
 
 `EcuM`: ECU State Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31, p. 35
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 26
 
 ## F
 
