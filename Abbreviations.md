@@ -62,12 +62,14 @@
 `DDS`: Data Distribution Services
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 63
 
-`DEM`: Diagnostic Event Manager
+`DEM`, `Dem`: Diagnostic Event Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35, p. 37
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
 
 `Det`: Default Error Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
 
 `Dlt`: Diagnostic Log and Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
@@ -79,7 +81,7 @@
 
 `EcuM`: ECU State Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31, p. 35
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 26
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 26, p. 27
 
 ## F
 
@@ -159,6 +161,9 @@
 `NV`: Non-Volatile
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 95
 
+`NvM`: Non-Volatile (memory) Manager?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
+
 ## O
 
 `OccptPedSfty`: Occupant and Pedestrian Safety
@@ -175,6 +180,9 @@
 
 `OS`: Operating System
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 29
+
+`Os`: Operating System?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
 
 ## P
 
@@ -205,7 +213,7 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 32
 
 `SchM`: (Basic Software) Scheduler Manager
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 10, p. 13, p. 20
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 10, p. 13, p. 20, p. 27
 
 `SC`: Sequence Counter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 114
