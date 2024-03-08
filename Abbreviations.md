@@ -134,6 +134,9 @@
 `IPDU`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 13)
 
+`IoHwAbstr`: Input/Output Hardware Abstraction
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 29
+
 ## L
 
 `L`: Data Link Layer (Layer 2)
