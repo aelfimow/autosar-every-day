@@ -129,6 +129,9 @@
 `ICC`: Implementation Conformance Class
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 81
 
+`ICU`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 33
+
 `ICV`: Integrity Check Value
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 193
 
@@ -180,6 +183,9 @@
 
 `OccptPedSfty`: Occupant and Pedestrian Safety
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
+
+`OCU`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 33
 
 `OLDA`: Online Data Acquistion
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf (p. 36)
