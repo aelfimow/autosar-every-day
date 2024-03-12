@@ -91,12 +91,18 @@
 `FDIR`: Fault Detection, Isolation, Recovery
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 10
 
+`FEE`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32
+
 `FF`: First Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
 `FIM`: Function Inhibition Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 32
+
+`FLS`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32
 
 `FLSTST`: Flash Test
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
@@ -149,6 +155,9 @@
 
 `MDF`: Measuremend Data Format
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 10
+
+`MEMIF`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32
 
 `MmedTelmHmi`: Multimedia, Telematics, HMI
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
