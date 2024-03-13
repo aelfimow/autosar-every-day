@@ -45,8 +45,9 @@
 `CF`: Consecutive Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
-`CORTST`: Core Test
+`CorTst`, `CORTST`: Core Test
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
 
 `ComM`: Communication Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31
@@ -83,6 +84,15 @@
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31, p. 35
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 26, p. 27
 
+`Eep`: EEPROM Driver
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 36
+
+`EthSwt`: Ethernet Switch Driver
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
+
+`EthTrcv`: Ethernet Transceiver Driver
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
+
 ## F
 
 `FC`: Flow Control
@@ -101,11 +111,12 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 32
 
-`FLS`: ?
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32
+`FLS`, `Fls`: Flash Driver
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32, p. 37
 
-`FLSTST`: Flash Test
+`FLSTST`, `FlsTst`: Flash Test
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 37
 
 `FMF`: Fault Management Framework
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 49
@@ -115,6 +126,12 @@
 
 `FVM`: Freshness Value Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 193
+
+`Fr`: FlexRay Driver
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
+
+`FrTrcv`: FlexRay Transceiver Driver
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
 
 ## G
 
@@ -151,6 +168,12 @@
 `L`: Data Link Layer (Layer 2)
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
+`Lin`: LIN Driver
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
+
+`LinTrcv`: LIN Transceiver Driver
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
+
 ## M
 
 `MAC`: Message Authentication Code
@@ -158,6 +181,9 @@
 
 `MDF`: Measuremend Data Format
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 10
+
+`ME`: Mappable Element
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
 
 `MEMIF`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32
@@ -270,6 +296,12 @@
 
 `WdgM`: Watchdog Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 27, p. 35
+
+`WEth`: Wireless Ethernet Driver
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
+
+`WEthTrcv`: Wireless Ethernet Transceiver
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
 
 ## X
 
