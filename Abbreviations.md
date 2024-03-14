@@ -183,7 +183,7 @@
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 10
 
 `ME`: Mappable Element
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35, p. 38
 
 `MEMIF`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32
