@@ -152,6 +152,9 @@
 `ICV`: Integrity Check Value
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 193
 
+`IE`: Implementation Extension
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 46, p. 48
+
 `IOC`: Inter OsApplication Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 76
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 23
