@@ -20,6 +20,9 @@
 `ASAM`: ?
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 8
 
+`ASW`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 53
+
 ## B
 
 `BMC`: ?
@@ -48,6 +51,9 @@
 `CorTst`, `CORTST`: Core Test
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
+
+`Com-Stack`: Communication (?) Stack
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 52
 
 `ComM`: Communication Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31
@@ -82,7 +88,7 @@
 
 `EcuM`: ECU State Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31, p. 35
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 26, p. 27
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 26, p. 27, p. 53
 
 `Eep`: EEPROM Driver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 36
