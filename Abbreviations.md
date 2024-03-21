@@ -72,7 +72,7 @@
 `DEM`, `Dem`: Diagnostic Event Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35, p. 37
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27, p. 54
 
 `Det`: Default Error Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
@@ -169,6 +169,9 @@
 `IPDU`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 13)
 
+`IpduM`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 54)
+
 `IoHwAbstr`: Input/Output Hardware Abstraction
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 29
 
@@ -176,6 +179,9 @@
 
 `L`: Data Link Layer (Layer 2)
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
+
+`LdCom`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 55
 
 `Lin`: LIN Driver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
@@ -246,7 +252,7 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
 
 `PduR`: ?
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 12)
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 12, p. 54)
 
 `PL_List`: Physical and Logical List
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 72
@@ -273,6 +279,7 @@
 
 `SecOC`: Secure Onboard Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 179
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 54
 
 `SDU`: Service Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
@@ -295,6 +302,11 @@
 `SWC-T`, `SWCT`: Software Component Template
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 40
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 15
+
+## U
+
+`UL`: ?
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 55
 
 ## V
 
