@@ -279,7 +279,7 @@
 
 `SecOC`: Secure Onboard Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 179
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 54
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 54, p. 56
 
 `SDU`: Service Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
