@@ -60,6 +60,7 @@
 
 `CSM`: Crypto Service Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 26
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 60
 
 ## D
 
@@ -129,9 +130,11 @@
 
 `FV`: Freshness Value
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 178, p. 193
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 60
 
 `FVM`: Freshness Value Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 193
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 60
 
 `Fr`: FlexRay Driver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
@@ -279,7 +282,7 @@
 
 `SecOC`: Secure Onboard Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 179
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 54, p. 56
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 54, p. 56, p. 59
 
 `SDU`: Service Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
