@@ -92,7 +92,7 @@
 
 `EcuM`: ECU State Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31, p. 35
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 26, p. 27, p. 53
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 26, p. 27, p. 53, p.76
 
 `Eep`: EEPROM Driver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 36
