@@ -20,6 +20,9 @@
 `ASAM`: ?
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 8
 
+`ASIL`: Automotive Safety Integrity Level
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 83
+
 `ASW`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 53
 
@@ -170,7 +173,7 @@
 `IOC`: Inter OsApplication Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 76
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 23
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 20
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 20, p. 80
 
 `IPDU`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 13)
@@ -271,6 +274,11 @@
 
 `Pt`: Powertrain
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
+
+## Q
+
+`QM`: Quality Managed (i.e. not developed according to `ASIL` requirements)
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 83
 
 ## S
 
