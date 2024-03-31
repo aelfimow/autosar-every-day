@@ -215,6 +215,9 @@
 `MmedTelmHmi`: Multimedia, Telematics, HMI
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
 
+`MPU`: Memory Protection Unit
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 17
+
 ## N
 
 `N`: Network Layer (Layer 3)
