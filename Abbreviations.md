@@ -39,6 +39,7 @@
 
 `BswM`: Basic Software Mode Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 75, p. 157
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 28
 
 `BSWDT`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 69
@@ -53,6 +54,12 @@
 
 `CF`: Consecutive Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
+
+`Cat1`: Category 1 (Interrupts)
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 27
+
+`Cat2`: Category 2 (Interrupts)
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 27
 
 `CorTst`, `CORTST`: Core Test
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
@@ -80,6 +87,7 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35, p. 37
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27, p. 54
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 28
 
 `Det`: Default Error Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
