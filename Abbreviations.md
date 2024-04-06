@@ -270,6 +270,7 @@
 
 `PDU`: Protocol Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 43
 
 `PduR`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 12, p. 54)
@@ -301,6 +302,7 @@
 
 `SC`: Sequence Counter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 114
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 40
 
 `SecOC`: Secure Onboard Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 179
@@ -334,6 +336,9 @@
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 55
 
 ## V
+
+`VFB`: ?
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 38
 
 `VFC`: Virtual Function Cluster
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
