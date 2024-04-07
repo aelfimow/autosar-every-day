@@ -186,6 +186,9 @@
 `IPDU`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 13)
 
+`I-PDU`: ?
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf (p. 45)
+
 `IpduM`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 54)
 
@@ -338,7 +341,7 @@
 ## V
 
 `VFB`: ?
-* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 38
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 38, p. 46
 
 `VFC`: Virtual Function Cluster
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
