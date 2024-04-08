@@ -55,6 +55,9 @@
 `CF`: Consecutive Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
+`COM`: Communication (Stack)?
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 48
+
 `Cat1`: Category 1 (Interrupts)
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 27
 
