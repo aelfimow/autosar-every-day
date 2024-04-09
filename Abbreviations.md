@@ -164,6 +164,14 @@
 `GCE`: ?
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, (p. 16)
 
+## H
+
+`HARA`: Hazard Analysis
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 58
+
+`HAZOP`: Hazard and Operability Analysis
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 58
+
 ## I
 
 `I`: Interaction (Layer 6, Presentation)
@@ -309,6 +317,9 @@
 `SC`: Sequence Counter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 114
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 40
+
+`SEooC`: Safety Elements out of Context
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 58
 
 `SecOC`: Secure Onboard Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 179
