@@ -336,6 +336,7 @@
 
 `StbM`: Synchronized Timebase Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 192
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 61
 
 `SwCluC`: Software Cluster Connection
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 119
@@ -355,7 +356,7 @@
 ## V
 
 `VFB`: ?
-* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 38, p. 46
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 38, p. 46, p. 70
 
 `VFC`: Virtual Function Cluster
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
