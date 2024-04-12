@@ -11,6 +11,9 @@
 `ALEM`: Application Level Error Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 48, p. 49
 
+`ALU`: Arithmetical and Logical Unit
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 85, p. 86
+
 `ARTI`: AUTOSAR RunTimeInterface
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf (p. 1)
 
