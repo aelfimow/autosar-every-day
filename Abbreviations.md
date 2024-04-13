@@ -25,11 +25,15 @@
 
 `ASIL`: Automotive Safety Integrity Level
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 83
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
 
 `ASW`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 53
 
 ## B
+
+`BIST`: Built In Self Test
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
 
 `BMC`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 20
@@ -108,6 +112,9 @@
 `E2E`: End to End Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 
+`EMC`: Electromagnetic Compatibility
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
+
 `EcuM`: ECU State Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31, p. 35
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 26, p. 27, p. 53, p.76
@@ -149,6 +156,9 @@
 `FMF`: Fault Management Framework
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 49
 
+`FTTI`: Fault Tolerant Time Interval
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
+
 `FV`: Freshness Value
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 178, p. 193
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 60
@@ -171,10 +181,16 @@
 ## H
 
 `HARA`: Hazard Analysis
-* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 58
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 58, p. 92
 
 `HAZOP`: Hazard and Operability Analysis
-* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 58
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 58, p. 92
+
+`HTM`: Hardware Test Manager
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
+
+`HTMSS`: Hardware Test Manager on Startup and Shutdown
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
 
 ## I
 
@@ -197,6 +213,7 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 76
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 23
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 20, p. 80
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
 
 `IPDU`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 13)
@@ -243,6 +260,9 @@
 
 `MPU`: Memory Protection Unit
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 17
+
+`MSTP`: Microcontroller Specific Test Package
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
 
 ## N
 
@@ -323,7 +343,7 @@
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 40
 
 `SEooC`: Safety Elements out of Context
-* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 58
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 58, p. 92
 
 `SecOC`: Secure Onboard Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 179
@@ -351,6 +371,11 @@
 `SWC-T`, `SWCT`: Software Component Template
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 40
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 15
+
+## T
+
+`TP`: Transport Protocol
+* AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
 
 ## U
 
