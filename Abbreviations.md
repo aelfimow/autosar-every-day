@@ -100,9 +100,10 @@
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27, p. 54
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 28
 
-`Det`: Default Error Trace
+`Det`, `DET`: Default Error Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 11
 
 `Dlt`: Diagnostic Log and Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
@@ -135,6 +136,7 @@
 
 `FDIR`: Fault Detection, Isolation, Recovery
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 10
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 7
 
 `FEE`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32
@@ -145,6 +147,7 @@
 `FIM`: Function Inhibition Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 32
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 11
 
 `FLS`, `Fls`: Flash Driver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32, p. 37
