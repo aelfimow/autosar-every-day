@@ -56,6 +56,18 @@
 
 ## C
 
+`CANSM`: ?
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 14
+
+`CANIF`: ?
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 14
+
+`CANNM`: ?
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 14
+
+`CANTP`: ?
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 14
+
 `CDD`: Complex Device Driver (or Complex Driver)
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 7
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 78
