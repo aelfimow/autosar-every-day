@@ -112,6 +112,9 @@
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27, p. 54
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 28
 
+`DLC`: ?
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 24
+
 `Det`, `DET`: Default Error Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
@@ -124,6 +127,9 @@
 
 `E2E`: End to End Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
+
+`EH`: ?
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 15
 
 `EMC`: Electromagnetic Compatibility
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
