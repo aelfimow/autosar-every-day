@@ -128,6 +128,9 @@
 `E2E`: End to End Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 
+`EA`: ?
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 37
+
 `EH`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 15
 
@@ -138,8 +141,9 @@
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31, p. 35
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 26, p. 27, p. 53, p.76
 
-`Eep`: EEPROM Driver
+`Eep`, `EEP`: EEPROM Driver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 36
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 37
 
 `EthSwt`: Ethernet Switch Driver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
@@ -158,6 +162,7 @@
 
 `FEE`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 37
 
 `FF`: First Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
@@ -169,6 +174,7 @@
 
 `FLS`, `Fls`: Flash Driver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32, p. 37
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 37
 
 `FLSTST`, `FlsTst`: Flash Test
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
@@ -298,6 +304,7 @@
 
 `NvM`: Non-Volatile (memory) Manager?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 36
 
 ## O
 
