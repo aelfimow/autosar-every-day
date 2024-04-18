@@ -180,6 +180,9 @@
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 37
 
+`FM`: Failure Mode
+* AUTOSAR\_EXP\_ErrorDescription.pdf, p. 38
+
 `FMF`: Fault Management Framework
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 49
 
