@@ -7,7 +7,7 @@ AUTOSAR’s goal of relocatability (p. 13)
 Overall mechanisms and concepts: Components (p. 14)
 * Example: `SeatHeatingControl`
 * Example: `SeatHeating`
-* There can be several instances3 of the same component in a vehicle system (p. 15)
+* There can be several instances of the same component in a vehicle system (p. 15)
 * Example: `SHCFrontLeft`, `SHCFrontRight`
 
 Specification items (p. 16)
