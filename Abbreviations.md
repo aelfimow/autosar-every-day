@@ -415,8 +415,9 @@
 
 ## V
 
-`VFB`: ?
+`VFB`: Virtual Functional Bus
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 38, p. 46, p. 70
+* AUTOSAR\_EXP\_VFB.pdf, p. 7
 
 `VFC`: Virtual Function Cluster
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
