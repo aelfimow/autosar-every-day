@@ -71,6 +71,7 @@
 `CDD`: Complex Device Driver (or Complex Driver)
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 7
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 78
+* AUTOSAR\_EXP\_VFB.pdf, p. 70
 
 `CF`: Consecutive Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
@@ -275,6 +276,9 @@
 
 `MAC`: Message Authentication Code
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 178
+
+`MCAL`: Microcontroller Abstraction Layer
+* AUTOSAR\_EXP\_VFB.pdf, p. 69
 
 `MDF`: Measuremend Data Format
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 10
