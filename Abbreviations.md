@@ -47,6 +47,7 @@
 `BswM`: Basic Software Mode Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 75, p. 157
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 28
+* AUTOSAR\_EXP\_VFB.pdf, p. 74
 
 `BSWDT`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 69
