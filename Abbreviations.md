@@ -99,6 +99,7 @@
 `CSM`: Crypto Service Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 26
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 60
+* AUTOSAR\_EXP\_VFB.pdf, p. 75
 
 ## D
 
@@ -258,6 +259,14 @@
 
 `IoHwAbstr`: Input/Output Hardware Abstraction
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 29
+
+## J
+
+`J1939Dcm`: Diagnostic Communication Manager for SAE J1939
+* AUTOSAR\_EXP\_VFB.pdf, p. 75
+
+`J1939Rm`: Request Manager for SAE J1939
+* AUTOSAR\_EXP\_VFB.pdf, p. 75
 
 ## L
 
