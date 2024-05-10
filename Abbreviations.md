@@ -313,6 +313,9 @@
 `N`: Network Layer (Layer 3)
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
+`NCF`: Node Capability File
+* AUTOSAR\_EXP\_VFB.pdf, p. 106, p. 107
+
 `NM`: Network Management
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 50
 
