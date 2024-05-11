@@ -48,6 +48,7 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 75, p. 157
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 28
 * AUTOSAR\_EXP\_VFB.pdf, p. 74
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 8
 
 `BSWDT`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 69
@@ -105,6 +106,7 @@
 
 `DCM`: Diagnostic Communication Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 8
 
 `DDS`: Data Distribution Services
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 63
