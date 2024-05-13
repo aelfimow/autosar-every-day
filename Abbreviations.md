@@ -80,6 +80,7 @@
 
 `COM`: Communication (Stack)?
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 48
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 14
 
 `Cat1`: Category 1 (Interrupts)
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 27
