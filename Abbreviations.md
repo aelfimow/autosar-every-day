@@ -48,7 +48,7 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 75, p. 157
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 28
 * AUTOSAR\_EXP\_VFB.pdf, p. 74
-* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 8
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 8, p. 17
 
 `BSWDT`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 69
@@ -57,6 +57,9 @@
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 25
 
 ## C
+
+`C-API`: ?
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 18, p. 19
 
 `CANSM`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 14
@@ -136,6 +139,9 @@
 
 `EA`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 37
+
+`ECUC`: ?
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 17
 
 `EH`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 15
