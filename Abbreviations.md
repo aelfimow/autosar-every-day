@@ -143,6 +143,9 @@
 `ECUC`: ?
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 17
 
+`ECUM`: same as `EcuM`?
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 32, p. 34
+
 `EH`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 15
 
@@ -259,6 +262,7 @@
 
 `IPDU`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 13)
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf (p. 30)
 
 `I-PDU`: ?
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf (p. 45)
