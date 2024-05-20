@@ -149,8 +149,14 @@
 `EH`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 15
 
+`EIRA`: External and Internal Request Array (see also `ERA` and `IRA`)
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf (p. 40)
+
 `EMC`: Electromagnetic Compatibility
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
+
+`ERA`: External Request Array (see also `EIRA` and `IRA`)
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf (p. 40)
 
 `EcuM`: ECU State Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31, p. 35
@@ -263,6 +269,9 @@
 `IPDU`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 13)
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf (p. 30)
+
+`IRA`: Internal Request Array (see also `EIRA` and `ERA`)
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf (p. 40)
 
 `I-PDU`: ?
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf (p. 45)
@@ -382,6 +391,7 @@
 
 `PNC`: Partial Network Cluster
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 39
 
 `Pt`: Powertrain
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
