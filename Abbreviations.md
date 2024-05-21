@@ -2,6 +2,9 @@
 
 ## A
 
+`AC`: AddressClaimed (see also `SA`)
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 48
+
 `AI Table`: Application Interface Table
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 8
 
@@ -275,6 +278,7 @@
 
 `I-PDU`: ?
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf (p. 45)
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf (p. 43)
 
 `IpduM`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 54)
@@ -402,6 +406,9 @@
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 83
 
 ## S
+
+`SA`: Same Address? (see also `AC`)
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 48
 
 `SBC`: System Basis Chip, e.g. transceiver, watchdog
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 32
