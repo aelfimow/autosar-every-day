@@ -301,6 +301,7 @@
 
 `LdCom`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 55
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 55
 
 `Lin`: LIN Driver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
@@ -385,7 +386,8 @@
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 43
 
 `PduR`: ?
-* AUTOSAR\_EXP\_BSWDistributionGuide.pdf (p. 12, p. 54)
+* AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 12, p. 54
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 55
 
 `PL_List`: Physical and Logical List
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 72
