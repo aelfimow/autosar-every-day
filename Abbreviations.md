@@ -113,7 +113,7 @@
 
 `DCM`: Diagnostic Communication Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35
-* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 8
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 8, p. 58
 
 `DDS`: Data Distribution Services
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 63
@@ -126,6 +126,9 @@
 
 `DLC`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 24
+
+`DTC`: ?
+* AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 65
 
 `Det`, `DET`: Default Error Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
