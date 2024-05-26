@@ -18,7 +18,7 @@ AUTOSAR\_EXP\_ErrorDescription.pdf: day75 to day80
 
 AUTOSAR\_EXP\_VFB.pdf: day81 to day101
 
-AUTOSAR\_EXP\_ModeManagementGuide.pdf: day102
+AUTOSAR\_EXP\_ModeManagementGuide.pdf: day102 to day117
 
 AUTOSAR\_EXP\_AIADASAndVMC.pdf
 
