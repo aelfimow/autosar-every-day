@@ -2,8 +2,20 @@
 
 ## A
 
+`ABS`: ? (see also `TCS`)
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+
 `AC`: AddressClaimed (see also `SA`)
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 48
+
+`ACC`: ?
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+
+`ADAS`: ?
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+
+`AEB`: ?
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
 
 `AI Table`: Application Interface Table
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 8
@@ -302,6 +314,9 @@
 `L`: Data Link Layer (Layer 2)
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
+`LKA`: ?
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+
 `LdCom`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 55
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 55
@@ -457,6 +472,9 @@
 
 ## T
 
+`TCS`: ? (see also `ABS`)
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+
 `TP`: Transport Protocol
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
 
@@ -473,6 +491,9 @@
 
 `VFC`: Virtual Function Cluster
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
+
+`VMC`: Vehicle Motion Control
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
 
 ## W
 
