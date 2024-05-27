@@ -20,7 +20,7 @@ AUTOSAR\_EXP\_VFB.pdf: day81 to day101
 
 AUTOSAR\_EXP\_ModeManagementGuide.pdf: day102 to day117
 
-AUTOSAR\_EXP\_AIADASAndVMC.pdf
+AUTOSAR\_EXP\_AIADASAndVMC.pdf: day118 to ?
 
 AUTOSAR\_EXP\_AIBodyAndComfort.pdf
 
