@@ -9,13 +9,16 @@
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 48
 
 `ACC`: ?
-* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 12
 
-`ADAS`: ?
-* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+`ADAS`: Advanced Driver Assistance System
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 6
 
 `AEB`: ?
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+
+`AI`: Application Interface
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 6
 
 `AI Table`: Application Interface Table
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 8
@@ -106,6 +109,9 @@
 `Cat2`: Category 2 (Interrupts)
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 27
 
+`CoG`: Centre of Gravity
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 6
+
 `CorTst`, `CORTST`: Core Test
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
@@ -191,6 +197,9 @@
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
 
 ## F
+
+`FA`: Front Axle
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 7
 
 `FC`: Flow Control
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
@@ -315,7 +324,7 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
 `LKA`: ?
-* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 11
 
 `LdCom`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 55
