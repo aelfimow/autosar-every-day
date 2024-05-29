@@ -2,20 +2,26 @@
 
 ## A
 
-`ABS`: ? (see also `TCS`)
-* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+`ABS`: Antilock Braking System (see also `TCS`)
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 14
 
 `AC`: AddressClaimed (see also `SA`)
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 48
 
-`ACC`: ?
-* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 12
+`ACC`: Adaptive Cruise Control
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 12, p. 14
+
+`ACL`: Acceleration
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`ACT`: Actuator
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
 `ADAS`: Advanced Driver Assistance System
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 6
 
-`AEB`: ?
-* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+`AEB`: Autonomous Emergency Braking
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 14
 
 `AI`: Application Interface
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 6
@@ -50,6 +56,9 @@
 
 ## B
 
+`BAS`: Brake Assist
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
 `BIST`: Built In Self Test
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
 
@@ -67,6 +76,18 @@
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 28
 * AUTOSAR\_EXP\_VFB.pdf, p. 74
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 8, p. 17
+
+`BRK`: Brake
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`BRWS`: Basic Rear Wheel Steering
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`BSTS`: Basic Steering Torque Superposition
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`BSAS`: Basic Steering Angle Superposition
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
 `BSWDT`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 69
@@ -90,6 +111,9 @@
 
 `CANTP`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 14
+
+`CBC`: Cornering Brake Control
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
 `CDD`: Complex Device Driver (or Complex Driver)
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 7
@@ -129,6 +153,9 @@
 
 ## D
 
+`DAS`: Driver Assistance System
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
 `DCM`: Diagnostic Communication Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 8, p. 58
@@ -145,8 +172,9 @@
 `DLC`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 24
 
-`DTC`: ?
+`DTC`: Regulation of the Drag Torque
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 65
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
 `Det`, `DET`: Default Error Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163, p. 165
@@ -164,6 +192,9 @@
 `EA`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 37
 
+`EBD`: Electronic Brake Force Distribution
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
 `ECUC`: ?
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 17
 
@@ -179,8 +210,14 @@
 `EMC`: Electromagnetic Compatibility
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
 
+`EPB`: Electronic Parking Brake
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
 `ERA`: External Request Array (see also `EIRA` and `IRA`)
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf (p. 40)
+
+`ESC`: Electronic Stability Control
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
 `EcuM`: ECU State Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31, p. 35
@@ -264,6 +301,15 @@
 `HAZOP`: Hazard and Operability Analysis
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 58, p. 92
 
+`HDC`: Hill Decent Control
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`HHC`: Hill Hold Control
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`HMI`: Human Machine Interface
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
 `HTM`: Hardware Test Manager
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
 
@@ -274,6 +320,9 @@
 
 `I`: Interaction (Layer 6, Presentation)
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
+
+`I/F`: Interface
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
 `ICC`: Implementation Conformance Class
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 81
@@ -323,8 +372,8 @@
 `L`: Data Link Layer (Layer 2)
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
-`LKA`: ?
-* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 11
+`LKA`: Lane Keep Assist
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 11, p. 14
 
 `LdCom`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 55
@@ -353,6 +402,9 @@
 `MEMIF`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32
 
+`MGR`: Manager
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
 `MmedTelmHmi`: Multimedia, Telematics, HMI
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
 
@@ -376,6 +428,9 @@
 `NV`: Non-Volatile
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 95
 
+`NVH`: Noise, Vibration, Harshness
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
 `NvM`: Non-Volatile (memory) Manager?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 36
@@ -387,6 +442,9 @@
 
 `OCU`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 33
+
+`OEM`: Original Equipment Manufacturer
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
 `OLDA`: Online Data Acquistion
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf (p. 36)
@@ -426,13 +484,22 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 39
 
-`Pt`: Powertrain
+`Pt`, `PT`: Powertrain
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
 ## Q
 
 `QM`: Quality Managed (i.e. not developed according to `ASIL` requirements)
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 83
+
+## R
+
+`RA`: Rear Axle
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`RSC`: Roll Stability Control
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
 ## S
 
@@ -465,6 +532,15 @@
 `SoAd`: Socket Adapter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 62
 
+`SR`: Situation Recognition
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`SSM`: Stand Still Manager/Management
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`STR`: Steering
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
 `StbM`: Synchronized Timebase Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 192
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 61
@@ -481,8 +557,8 @@
 
 ## T
 
-`TCS`: ? (see also `ABS`)
-* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+`TCS`: Traction Control System (see also `ABS`)
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 14
 
 `TP`: Transport Protocol
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
@@ -497,12 +573,25 @@
 `VFB`: Virtual Functional Bus
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 38, p. 46, p. 70
 * AUTOSAR\_EXP\_VFB.pdf, p. 7
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
 `VFC`: Virtual Function Cluster
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
 
+`VGR`: Variable Gear Ratio
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`VLC`: Vehicle Longitudinal Control
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`VM`: Vehicle Model
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
 `VMC`: Vehicle Motion Control
-* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 14
+
+`VSS`: Vehicle State Sensors
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
 ## W
 
@@ -525,3 +614,8 @@
 
 `XSD`: XML Schema Definition
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 8
+
+## Y
+
+`YRC`: Yaw Rate Control
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
