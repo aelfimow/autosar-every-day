@@ -38,6 +38,9 @@
 `ALU`: Arithmetical and Logical Unit
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 85, p. 86
 
+`AMG`: `ADAS`-`MGR` (see `MGR`)
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 18
+
 `ARTI`: AUTOSAR RunTimeInterface
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf (p. 1)
 
@@ -379,6 +382,9 @@
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 55
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 55
 
+`LiDAR`: ?
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 17
+
 `Lin`: LIN Driver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
 
@@ -476,6 +482,9 @@
 
 `PL_List`: Physical and Logical List
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 72
+
+`PLN`: Plan
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 18
 
 `PN`: Partial Networking
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 186
@@ -589,6 +598,9 @@
 
 `VMC`: Vehicle Motion Control
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 14
+
+`VMG`: Vehicle `MGR` (see `MGR`)
+* AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 18
 
 `VSS`: Vehicle State Sensors
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
