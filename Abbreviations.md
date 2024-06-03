@@ -57,10 +57,16 @@
 `ASW`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 53
 
+`ATWS`: Anti-Theft Warning System
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
+
 ## B
 
 `BAS`: Brake Assist
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`BBS`: Battery Backed Sensor
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
 
 `BIST`: Built In Self Test
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
@@ -126,6 +132,12 @@
 `CF`: Consecutive Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
+`CHLH`: Coming Home/Leaving Home
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
+
+`CL`: Central Locking
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
+
 `COM`: Communication (Stack)?
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 48
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 14
@@ -158,6 +170,9 @@
 
 `DAS`: Driver Assistance System
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`DC`: Defrost Control
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
 
 `DCM`: Diagnostic Communication Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35
@@ -197,6 +212,9 @@
 
 `EBD`: Electronic Brake Force Distribution
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`ECM`: Engine Control Module
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
 
 `ECUC`: ?
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 17
@@ -293,6 +311,9 @@
 
 ## G
 
+`GBS`: Glass Brake Sensor
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
+
 `GCE`: ?
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, (p. 16)
 
@@ -319,6 +340,9 @@
 `HTMSS`: Hardware Test Manager on Startup and Shutdown
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
 
+`HVAC`: Heating, Ventilation and Air Conditioning
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
+
 ## I
 
 `I`: Interaction (Layer 6, Presentation)
@@ -339,6 +363,12 @@
 `IE`: Implementation Extension
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 46, p. 48
 
+`IMMO`: Immobilizer
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
+
+`INCL`: Inclination sensor
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
+
 `IOC`: Inter OsApplication Communication
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 76
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 23
@@ -351,6 +381,9 @@
 
 `IRA`: Internal Request Array (see also `EIRA` and `ERA`)
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf (p. 40)
+
+`ISC`: Interior Scanner
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
 
 `I-PDU`: ?
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf (p. 45)
@@ -374,6 +407,12 @@
 
 `L`: Data Link Layer (Layer 2)
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
+
+`LHFD`: Left Hand Front Door
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
+
+`LHRD`: Left Hand Rear Door
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
 
 `LKA`: Lane Keep Assist
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 11, p. 14
@@ -469,6 +508,12 @@
 
 ## P
 
+`PASE`: Passive Entry
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
+
+`PATS`: Passive Alarm Theft Sensor
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
+
 `PCI`: Protocol Control Information
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
 
@@ -507,6 +552,15 @@
 `RA`: Rear Axle
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
+`RHFD`: Right Hand Front Door
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
+
+`RHRD`: Right Hand Rear Door
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
+
+`RKE`: Remote Keyless Entry
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
+
 `RSC`: Roll Stability Control
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
@@ -514,6 +568,9 @@
 
 `SA`: Same Address? (see also `AC`)
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 48
+
+`SA`: Seat Adjustment
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
 
 `SBC`: System Basis Chip, e.g. transceiver, watchdog
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 32
@@ -524,6 +581,9 @@
 `SC`: Sequence Counter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 114
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 40
+
+`SC`: Seat Climatization
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
 
 `SEooC`: Safety Elements out of Context
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 58, p. 92
