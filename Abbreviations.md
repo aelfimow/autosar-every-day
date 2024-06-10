@@ -450,6 +450,9 @@
 `MGR`: Manager
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
+`MMI`: ?
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 46
+
 `MmedTelmHmi`: Multimedia, Telematics, HMI
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
 
