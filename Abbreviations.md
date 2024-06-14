@@ -23,6 +23,9 @@
 `AEB`: Autonomous Emergency Braking
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 14
 
+`AFS`: Advanced Front Lighting System
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 55
+
 `AI`: Application Interface
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 6
 
@@ -135,6 +138,9 @@
 `CHLH`: Coming Home/Leaving Home
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
 
+`CHMSL`: Centre High Mounted Stop Lamp
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 55
+
 `CL`: Central Locking
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
 
@@ -189,6 +195,9 @@
 
 `DLC`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 24
+
+`DRL`: Daytime Running Lamps
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 56
 
 `DTC`: Regulation of the Drag Torque
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 65
@@ -331,8 +340,14 @@
 `HHC`: Hill Hold Control
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
+`HIDS`: High Intensity Discharge (Lamps)
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 57
+
 `HMI`: Human Machine Interface
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`HMSL`: High Mounted Stop Lamp
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 57
 
 `HTM`: Hardware Test Manager
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
