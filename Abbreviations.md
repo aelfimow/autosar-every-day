@@ -178,7 +178,7 @@
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
 `DC`: Defrost Control
-* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8, p. 66
 
 `DCM`: Diagnostic Communication Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35
