@@ -527,7 +527,7 @@
 ## P
 
 `PASE`: Passive Entry
-* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
+* AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8, p. 81
 
 `PATS`: Passive Alarm Theft Sensor
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
