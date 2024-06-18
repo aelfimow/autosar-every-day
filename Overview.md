@@ -22,7 +22,7 @@ AUTOSAR\_EXP\_ModeManagementGuide.pdf: day102 to day117
 
 AUTOSAR\_EXP\_AIADASAndVMC.pdf: day118 to day124
 
-AUTOSAR\_EXP\_AIBodyAndComfort.pdf: day125 to dayX
+AUTOSAR\_EXP\_AIBodyAndComfort.pdf: day125 to day140
 
 AUTOSAR\_EXP\_AIChassis.pdf
 
