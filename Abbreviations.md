@@ -156,6 +156,7 @@
 
 `CoG`: Centre of Gravity
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 6
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 8
 
 `CorTst`, `CORTST`: Core Test
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
@@ -176,6 +177,7 @@
 
 `DAS`: Driver Assistance System
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 8
 
 `DC`: Defrost Control
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8, p. 66
@@ -649,6 +651,9 @@
 
 `TP`: Transport Protocol
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
+
+`TPMS`: ?
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 9
 
 ## U
 
