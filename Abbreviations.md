@@ -10,6 +10,7 @@
 
 `ACC`: Adaptive Cruise Control
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 12, p. 14
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 12
 
 `ACL`: Acceleration
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
@@ -156,7 +157,7 @@
 
 `CoG`: Centre of Gravity
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 6
-* AUTOSAR\_EXP\_AIChassis.pdf, p. 8
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 8, p. 12
 
 `CorTst`, `CORTST`: Core Test
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 20
@@ -269,6 +270,7 @@
 
 `FA`: Front Axle
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 7
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 11
 
 `FC`: Flow Control
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
