@@ -639,6 +639,15 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 192
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 61
 
+`SteerDrvrAsscSys`: Steering Driver Assistance System (DAS)
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 25
+
+`SteerVehStabyCtrl`: Steering Vehicle Stabilizing Control
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 25
+
+`Susp`: Suspension System
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 25
+
 `SwCluC`: Software Cluster Connection
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 119
 
