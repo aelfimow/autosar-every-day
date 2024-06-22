@@ -220,6 +220,9 @@
 `Dlt`: Diagnostic Log and Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 
+`DtTqDistbn`: Drivetrain Torque Distribution (formerly known as `AWD`)
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 25
+
 ## E
 
 `E2E`: End to End Communication
