@@ -155,6 +155,9 @@
 `Cat2`: Category 2 (Interrupts)
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 27
 
+`ChassisSnsr`: Chassis Sensor
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 25
+
 `CoG`: Centre of Gravity
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 6
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 8, p. 12
