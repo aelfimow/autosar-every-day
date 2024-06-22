@@ -672,6 +672,9 @@
 `TPMS`: ?
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 9
 
+`TirePMon`: Tire Pressure Monitoring System
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 25
+
 ## U
 
 `UL`: ?
