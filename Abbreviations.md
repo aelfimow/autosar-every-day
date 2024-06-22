@@ -569,6 +569,9 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 39
 
+`PrkgAid`: Parking Aid
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 25
+
 `Pt`, `PT`: Powertrain
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
