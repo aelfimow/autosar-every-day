@@ -169,6 +169,9 @@
 `ComM`: Communication Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31
 
+`CrsCtrlAndAcc`: Cruise Control and Adaptive Cruise Control
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 25
+
 `CSM`: Crypto Service Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 26
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 60
@@ -668,6 +671,7 @@
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 38, p. 46, p. 70
 * AUTOSAR\_EXP\_VFB.pdf, p. 7
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 22
 
 `VFC`: Virtual Function Cluster
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
