@@ -702,6 +702,7 @@
 
 `VLC`: Vehicle Longitudinal Control
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 25
 
 `VM`: Vehicle Model
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
