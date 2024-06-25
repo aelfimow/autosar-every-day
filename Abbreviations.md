@@ -95,12 +95,15 @@
 
 `BRWS`: Basic Rear Wheel Steering
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 34
 
 `BSTS`: Basic Steering Torque Superposition
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 33
 
 `BSAS`: Basic Steering Angle Superposition
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 34
 
 `BSWDT`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 69
@@ -700,6 +703,7 @@
 
 `VGR`: Variable Gear Ratio
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+* AUTOSAR\_EXP\_AIChassis.pdf, p. 34
 
 `VLC`: Vehicle Longitudinal Control
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
