@@ -24,7 +24,7 @@ AUTOSAR\_EXP\_AIADASAndVMC.pdf: day118 to day124
 
 AUTOSAR\_EXP\_AIBodyAndComfort.pdf: day125 to day140
 
-AUTOSAR\_EXP\_AIChassis.pdf: day141 to dayX
+AUTOSAR\_EXP\_AIChassis.pdf: day141 to day149
 
 AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf
 
