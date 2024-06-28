@@ -482,6 +482,9 @@
 `MGR`: Manager
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
+`MM`: Multimedia
+* AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf, p. 4
+
 `MMI`: ?
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 46
 
@@ -551,6 +554,9 @@
 
 `PCI`: Protocol Control Information
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
+
+`PDC`: Park Distance Control
+* AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf, p. 5
 
 `PDU`: Protocol Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
@@ -672,6 +678,9 @@
 * AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 15
 
 ## T
+
+`T`: Telematics
+* AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf, p. 4
 
 `TCS`: Traction Control System (see also `ABS`)
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 14
