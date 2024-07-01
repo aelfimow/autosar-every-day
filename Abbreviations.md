@@ -741,6 +741,9 @@
 `WEthTrcv`: Wireless Ethernet Transceiver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
 
+`WP`: ?
+* AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf, p. 9
+
 ## X
 
 `XCP`: ?
