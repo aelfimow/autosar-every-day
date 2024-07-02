@@ -556,7 +556,7 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
 
 `PDC`: Park Distance Control
-* AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf, p. 5
+* AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf, p. 5, p. 10
 
 `PDU`: Protocol Data Unit
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
@@ -585,6 +585,9 @@
 `Pt`, `PT`: Powertrain
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`P&P`: ?
+* AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf, p. 17
 
 ## Q
 
