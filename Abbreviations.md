@@ -2,6 +2,9 @@
 
 ## A
 
+`AB`: Airbag
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
 `ABS`: Antilock Braking System (see also `TCS`)
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 14
 
@@ -44,6 +47,9 @@
 
 `AMG`: `ADAS`-`MGR` (see `MGR`)
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 18
+
+`AP`: Actuator Pool
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
 
 `ARTI`: AUTOSAR RunTimeInterface
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf (p. 1)
@@ -152,6 +158,9 @@
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 48
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 14
 
+`COOP`: Critical Out of Position
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
 `Cat1`: Category 1 (Interrupts)
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 27
 
@@ -177,6 +186,9 @@
 
 `CrsCtrlAndAcc`: Cruise Control and Adaptive Cruise Control
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 25
+
+`CS`: Crash Status
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
 
 `CSM`: Crypto Service Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 26
@@ -236,6 +248,9 @@
 
 `EBD`: Electronic Brake Force Distribution
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`eCall`: Emergency Call
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
 
 `ECM`: Engine Control Module
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
@@ -526,6 +541,9 @@
 `OCU`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 33
 
+`OD`: Occupant Detection
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
 `OEM`: Original Equipment Manufacturer
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
@@ -534,6 +552,21 @@
 
 `OMG`: Object Management Group
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 64
+
+`OOP`: Out Of Position
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
+`OPC`: Occupant Pre Conditioning
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
+`OPS`: Occupant and Pedestrian Safety
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
+`OPSS`: `OPS` Systems
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
+`ORA`: Occupant Restraint Activation
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
 
 `ORTI`: OSEK RunTimeInterface
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 4, p. 7
@@ -552,8 +585,17 @@
 `PATS`: Passive Alarm Theft Sensor
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
 
+`PCD`: Pedestrian Crash Detection
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
 `PCI`: Protocol Control Information
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 105
+
+`PCI`: Post Crash Information
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
+`PCP`: Pedestrian Crash Prediction
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
 
 `PDC`: Park Distance Control
 * AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf, p. 5, p. 10
@@ -578,6 +620,15 @@
 `PNC`: Partial Network Cluster
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 39
+
+`POD`: Pitchover Crash Detection
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
+`PPA`: Pedestrian Protection Actuator Activation
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
+`PPP`: Pedestrian Protection system Pre conditioning
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
 
 `PrkgAid`: Parking Aid
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 25
@@ -608,8 +659,17 @@
 `RKE`: Remote Keyless Entry
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
 
+`ROD`: Rollover Crash Detection
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
 `RSC`: Roll Stability Control
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`RSM`: Restraint System Monitoring
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
+`RSP`: Restraint System Pre conditioning
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
 
 ## S
 
@@ -621,6 +681,9 @@
 
 `SBC`: System Basis Chip, e.g. transceiver, watchdog
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 32
+
+`SBR`: Seat Belt Reminder
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
 
 `SchM`: (Basic Software) Scheduler Manager
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 10, p. 13, p. 20, p. 27
@@ -651,8 +714,14 @@
 `SR`: Situation Recognition
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
+`SRS`: Safety Restraint System
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
 `SSM`: Stand Still Manager/Management
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+
+`SP`: Sensor Pool
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
 
 `STR`: Steering
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
@@ -675,6 +744,9 @@
 
 `SWC`, `SW-C`: Software Component
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 7
+
+`SWCo`: Software Composition
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
 
 `SWC-T`, `SWCT`: Software Component Template
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 40
@@ -704,6 +776,12 @@
 
 ## V
 
+`VCD`: Vehicle Crash Detection
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
+`VCP`: Vehicle Crash Prediction
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
 `VFB`: Virtual Functional Bus
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 38, p. 46, p. 70
 * AUTOSAR\_EXP\_VFB.pdf, p. 7
@@ -716,6 +794,9 @@
 `VGR`: Variable Gear Ratio
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 34
+
+`VH`: Variant Handling (concept)
+* AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
 
 `VLC`: Vehicle Longitudinal Control
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
