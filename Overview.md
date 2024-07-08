@@ -28,7 +28,7 @@ AUTOSAR\_EXP\_AIChassis.pdf: day141 to day149
 
 AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf: day150 to day153
 
-AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf: day154 to dayX
+AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf: day154 to day159
 
 AUTOSAR\_EXP\_AIPowertrain.pdf
 
