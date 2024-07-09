@@ -30,7 +30,7 @@ AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf: day150 to day153
 
 AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf: day154 to day159
 
-AUTOSAR\_EXP\_AIPowertrain.pdf
+AUTOSAR\_EXP\_AIPowertrain.pdf: day160 to dayX
 
 AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf
 
