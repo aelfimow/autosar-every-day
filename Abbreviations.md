@@ -184,6 +184,9 @@
 `ComM`: Communication Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31
 
+`CmbEng`: Combustion Engine
+* AUTOSAR\_EXP\_AIPowerTrain.pdf, p. 22
+
 `CrsCtrlAndAcc`: Cruise Control and Adaptive Cruise Control
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 25
 
@@ -194,6 +197,9 @@
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 26
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 60
 * AUTOSAR\_EXP\_VFB.pdf, p. 75
+
+`CVT`: ?
+* AUTOSAR\_EXP\_AIPowerTrain.pdf, p. 21
 
 ## D
 
@@ -235,8 +241,9 @@
 `Dlt`: Diagnostic Log and Trace
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 
-`DtTqDistbn`: Drivetrain Torque Distribution (formerly known as `AWD`)
+`DtTqDistbn`, `DtTqDibtn`: Drivetrain Torque Distribution (formerly known as `AWD`)
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 25
+* AUTOSAR\_EXP\_AIPowerTrain.pdf, p. 22
 
 ## E
 
@@ -636,6 +643,10 @@
 `Pt`, `PT`: Powertrain
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
+* AUTOSAR\_EXP\_AIPowerTrain.pdf, p. 21
+
+`PTC`, `PtCoorr`: Powertrain Coordinator
+* AUTOSAR\_EXP\_AIPowerTrain.pdf, p. 21
 
 `P&P`: ?
 * AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf, p. 17
@@ -765,6 +776,9 @@
 
 `TPMS`: ?
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 9
+
+`Trsm`: Transmission System
+* AUTOSAR\_EXP\_AIPowerTrain.pdf, p. 21
 
 `TirePMon`: Tire Pressure Monitoring System
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 25, p. 39
