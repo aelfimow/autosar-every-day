@@ -752,6 +752,7 @@
 
 `SwCluC`: Software Cluster Connection
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 119
+* AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf, p. 6
 
 `SWC`, `SW-C`: Software Component
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 7
