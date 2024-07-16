@@ -321,6 +321,9 @@
 `FF`: First Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
+`FID`: ?
+* AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf, p. 16
+
 `FIM`: Function Inhibition Manager
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 32
