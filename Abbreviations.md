@@ -542,6 +542,9 @@
 
 ## O
 
+`OBD`: ?
+* AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf, p. 15
+
 `OccptPedSfty`: Occupant and Pedestrian Safety
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
 
