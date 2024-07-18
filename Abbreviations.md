@@ -187,6 +187,9 @@
 `CmbEng`: Combustion Engine
 * AUTOSAR\_EXP\_AIPowerTrain.pdf, p. 22
 
+`CP`: ?
+* AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf, p. 18
+
 `CrsCtrlAndAcc`: Cruise Control and Adaptive Cruise Control
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 25
 
