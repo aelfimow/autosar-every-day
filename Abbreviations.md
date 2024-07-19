@@ -468,6 +468,9 @@
 `L`: Data Link Layer (Layer 2)
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
+`LET`: Logical Execution Time
+* AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf, p. 20
+
 `LHFD`: Left Hand Front Door
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
 
