@@ -679,6 +679,9 @@
 `RHRD`: Right Hand Rear Door
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
 
+* `RIPS`: ?
+* AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf, p. 27
+
 `RKE`: Remote Keyless Entry
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
 
