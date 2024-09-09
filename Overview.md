@@ -32,7 +32,7 @@ AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf: day154 to day159
 
 AUTOSAR\_EXP\_AIPowertrain.pdf: day160 to day164
 
-AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf: day165 to dayX
+AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf: day165 to day174
 
 AUTOSAR\_EXP\_FirmwareOverTheAir.pdf
 
