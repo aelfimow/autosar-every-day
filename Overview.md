@@ -34,7 +34,7 @@ AUTOSAR\_EXP\_AIPowertrain.pdf: day160 to day164
 
 AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf: day165 to day174
 
-AUTOSAR\_EXP\_FirmwareOverTheAir.pdf
+AUTOSAR\_EXP\_FirmwareOverTheAir.pdf: day174 to dayX
 
 AUTOSAR\_EXP\_InterruptHandlingExplanation.pdf
 
