@@ -596,6 +596,9 @@
 `Os`: Operating System?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
 
+`OTA`: Over-The-Air
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 5
+
 ## P
 
 `PASE`: Passive Entry
@@ -800,6 +803,12 @@
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 25, p. 39
 
 ## U
+
+`UCM`: ?
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 5
+
+`UDS`: ?
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 7
 
 `UL`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 55
