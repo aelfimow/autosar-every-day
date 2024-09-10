@@ -541,6 +541,7 @@
 
 `NV`: Non-Volatile
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 95
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 9
 
 `NVH`: Noise, Vibration, Harshness
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
@@ -548,6 +549,7 @@
 `NvM`: Non-Volatile (memory) Manager?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 36
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 9
 
 ## O
 
