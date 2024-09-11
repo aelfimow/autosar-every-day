@@ -866,6 +866,9 @@
 `WEthTrcv`: Wireless Ethernet Transceiver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
 
+`WG-UCM`: ?
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 10
+
 `WP`: ?
 * AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf, p. 9
 
