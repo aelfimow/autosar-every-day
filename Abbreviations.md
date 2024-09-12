@@ -216,6 +216,7 @@
 `DCM`: Diagnostic Communication Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 8, p. 58
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 12
 
 `DDS`: Data Distribution Services
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 63
@@ -393,6 +394,9 @@
 
 `HMSL`: High Mounted Stop Lamp
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 57
+
+`HSM`: Hardware Security Module
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 12
 
 `HTM`: Hardware Test Manager
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
@@ -599,7 +603,7 @@
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
 
 `OTA`: Over-The-Air
-* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 5
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 5, p. 12
 
 ## P
 
@@ -806,11 +810,11 @@
 
 ## U
 
-`UCM`: ?
-* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 5
+`UCM`: Update And Configuration Management
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 5, p. 12
 
-`UDS`: ?
-* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 7
+`UDS`: Unified Diagnostic Services
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 7, p. 12
 
 `UL`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 55
