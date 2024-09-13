@@ -200,6 +200,7 @@
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 26
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 60
 * AUTOSAR\_EXP\_VFB.pdf, p. 75
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 18
 
 `CVT`: ?
 * AUTOSAR\_EXP\_AIPowerTrain.pdf, p. 21
