@@ -554,7 +554,7 @@
 `NvM`: Non-Volatile (memory) Manager?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 36
-* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 9
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 9, p. 21
 
 ## O
 
@@ -871,8 +871,8 @@
 `WEthTrcv`: Wireless Ethernet Transceiver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 35
 
-`WG-UCM`: ?
-* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 10
+`WG-UCM`: Work Group Update And Configuration Management
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 10, p. 23
 
 `WP`: ?
 * AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf, p. 9
