@@ -217,7 +217,7 @@
 `DCM`: Diagnostic Communication Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 8, p. 58
-* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 12
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 12, p. 29
 
 `DDS`: Data Distribution Services
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 63
