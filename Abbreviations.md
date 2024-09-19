@@ -228,6 +228,9 @@
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27, p. 54
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 28
 
+`DID`: ?
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 31
+
 `DLC`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 24
 
