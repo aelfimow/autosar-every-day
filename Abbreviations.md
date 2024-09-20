@@ -228,8 +228,8 @@
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27, p. 54
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 28
 
-`DID`: ?
-* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 31
+`DID`: Data Identifier?
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 31, p. 32, p. 33
 
 `DLC`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 24
@@ -691,6 +691,9 @@
 
 `RHRD`: Right Hand Rear Door
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
+
+`RID`: ?
+* AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 32
 
 * `RIPS`: ?
 * AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf, p. 27
