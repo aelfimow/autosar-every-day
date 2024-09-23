@@ -163,9 +163,11 @@
 
 `Cat1`: Category 1 (Interrupts)
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 27
+* AUTOSAR\_EXP\_InterruptHandlingExplanation.pdf, p. 5
 
 `Cat2`: Category 2 (Interrupts)
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 27
+* AUTOSAR\_EXP\_InterruptHandlingExplanation.pdf, p. 5
 
 `ChassisSnsr`: Chassis Sensor
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 25
@@ -373,8 +375,9 @@
 `GBS`: Glass Brake Sensor
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
 
-`GCE`: ?
-* AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, (p. 16)
+`GCE`: Generic Configuration Editor
+* AUTOSAR\_EXP\_CDDDesignAndIntegrationGuideline.pdf, p. 16
+* AUTOSAR\_EXP\_InterruptHandlingExplanation.pdf, p. 5
 
 ## H
 
@@ -452,6 +455,9 @@
 
 `ISC`: Interior Scanner
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
+
+`ISR`: Interrupt Service Routine
+* AUTOSAR\_EXP\_InterruptHandlingExplanation.pdf, p. 5
 
 `I-PDU`: ?
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf (p. 45)
@@ -686,6 +692,9 @@
 `RA`: Rear Axle
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
+`RETI`: Return from Interrupt
+* AUTOSAR\_EXP\_InterruptHandlingExplanation.pdf, p. 5
+
 `RHFD`: Right Hand Front Door
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
 
@@ -882,6 +891,7 @@
 
 `WP`: ?
 * AUTOSAR\_EXP\_AIHMIMultimediaAndTelematics.pdf, p. 9
+* AUTOSAR\_EXP\_InterruptHandlingExplanation.pdf, p. 4
 
 ## X
 
