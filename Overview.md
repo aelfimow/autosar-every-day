@@ -36,7 +36,7 @@ AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf: day165 to day174
 
 AUTOSAR\_EXP\_FirmwareOverTheAir.pdf: day174 to day187
 
-AUTOSAR\_EXP\_InterruptHandlingExplanation.pdf: day188 to dayX
+AUTOSAR\_EXP\_InterruptHandlingExplanation.pdf: day188 to day192
 
 AUTOSAR\_EXP\_MacroEncapsulationofInterpolationCalls.pdf
 
