@@ -434,6 +434,12 @@
 `IE`: Implementation Extension
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 46, p. 48
 
+`IFL`: ?
+* AUTOSAR\_EXP\_MacroEncapsulationofInterpolationCalls.pdf, p. 11
+
+`IFX`: ?
+* AUTOSAR\_EXP\_MacroEncapsulationofInterpolationCalls.pdf, p. 11
+
 `IMMO`: Immobilizer
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
 
