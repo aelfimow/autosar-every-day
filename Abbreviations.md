@@ -566,10 +566,14 @@
 `NVH`: Noise, Vibration, Harshness
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
-`NvM`: Non-Volatile (memory) Manager?
+`NvM`: `NVRAM` Manager
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 36
 * AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 9, p. 21
+* AUTOSAR\_EXP\_NVDataHandling.pdf, p. 6
+
+`NVRAM`: Non-volatile Random Access Memory
+* AUTOSAR\_EXP\_NVDataHandling.pdf, p. 6
 
 ## O
 
