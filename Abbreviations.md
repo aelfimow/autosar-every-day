@@ -262,6 +262,7 @@
 
 `EA`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 37
+* AUTOSAR\_EXP\_NVDataHandling.pdf, p. 16
 
 `EBD`: Electronic Brake Force Distribution
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
@@ -327,6 +328,7 @@
 `FEE`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 37
+* AUTOSAR\_EXP\_NVDataHandling.pdf, p. 16
 
 `FF`: First Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
