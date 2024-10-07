@@ -40,7 +40,7 @@ AUTOSAR\_EXP\_InterruptHandlingExplanation.pdf: day188 to day192
 
 AUTOSAR\_EXP\_MacroEncapsulationofInterpolationCalls.pdf: day193 to day197
 
-AUTOSAR\_EXP\_NVDataHandling.pdf: day198 to dayX
+AUTOSAR\_EXP\_NVDataHandling.pdf: day198 to day202
 
 AUTOSAR\_EXP\_SafetyUseCase.pdf
 
