@@ -154,6 +154,9 @@
 `CL`: Central Locking
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
 
+`CL15`: Clamp 15
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 8
+
 `COM`: Communication (Stack)?
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 48
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 14
@@ -270,6 +273,9 @@
 `eCall`: Emergency Call
 * AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
 
+`ECC`: Error Correction Code?
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 10
+
 `ECM`: Engine Control Module
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 7
 
@@ -340,6 +346,9 @@
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 163
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 32
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 11
+
+`FLM`: Front Light Management
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 9
 
 `FLS`, `Fls`: Flash Driver
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32, p. 37
@@ -501,6 +510,9 @@
 
 `LKA`: Lane Keep Assist
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 5, p. 11, p. 14
+
+`LS`: Light Switch
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 7
 
 `LdCom`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 55
