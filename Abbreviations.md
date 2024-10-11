@@ -544,6 +544,9 @@
 `MEMIF`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 32
 
+`MF`: Malfunction
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 12
+
 `MGR`: Manager
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
