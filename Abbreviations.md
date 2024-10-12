@@ -134,6 +134,9 @@
 `CANTP`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 14
 
+`CAN DB`: ?
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 14
+
 `CBC`: Cornering Brake Control
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 
@@ -239,8 +242,9 @@
 `DLC`: ?
 * AUTOSAR\_EXP\_ErrorDescription.pdf, p. 24
 
-`DRL`: Daytime Running Lamps
+`DRL`: Daytime Running Lamps/Lights
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 56
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 15, p. 16
 
 `DTC`: Regulation of the Drag Torque
 * AUTOSAR\_EXP\_ModeManagementGuide.pdf, p. 65
@@ -363,6 +367,9 @@
 
 `FMF`: Fault Management Framework
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 49
+
+`FTT`: Fault Tolerant Time?
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 15
 
 `FTTI`: Fault Tolerant Time Interval
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
