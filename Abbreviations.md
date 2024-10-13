@@ -432,6 +432,9 @@
 `HVAC`: Heating, Ventilation and Air Conditioning
 * AUTOSAR\_EXP\_AIBodyAndComfort.pdf, p. 8
 
+`HWA`: Hardware Abstraction
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 19
+
 ## I
 
 `I`: Interaction (Layer 6, Presentation)
@@ -720,6 +723,7 @@
 
 `QM`: Quality Managed (i.e. not developed according to `ASIL` requirements)
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 83
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 20
 
 ## R
 
