@@ -191,6 +191,7 @@
 
 `ComM`: Communication Manager
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 31
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 29
 
 `CmbEng`: Combustion Engine
 * AUTOSAR\_EXP\_AIPowerTrain.pdf, p. 22
@@ -235,6 +236,7 @@
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 35, p. 37
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 27, p. 54
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 28
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 27
 
 `DID`: Data Identifier?
 * AUTOSAR\_EXP\_FirmwareOverTheAir.pdf, p. 31, p. 32, p. 33
@@ -886,6 +888,7 @@
 * AUTOSAR\_EXP\_VFB.pdf, p. 7
 * AUTOSAR\_EXP\_AIADASAndVMC.pdf, p. 14
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 22
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 27
 
 `VFC`: Virtual Function Cluster
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 185
