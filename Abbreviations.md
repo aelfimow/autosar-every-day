@@ -345,6 +345,9 @@
 `FF`: First Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
 
+`FFI`: Freedom From Interference
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 57
+
 `FID`: ?
 * AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf, p. 16
 
