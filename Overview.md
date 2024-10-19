@@ -42,6 +42,6 @@ AUTOSAR\_EXP\_MacroEncapsulationofInterpolationCalls.pdf: day193 to day197
 
 AUTOSAR\_EXP\_NVDataHandling.pdf: day198 to day202
 
-AUTOSAR\_EXP\_SafetyUseCase.pdf: day203 to dayX
+AUTOSAR\_EXP\_SafetyUseCase.pdf: day203 to day213
 
 AUTOSAR\_EXP\_UtilizationOfCryptoServices.pdf
