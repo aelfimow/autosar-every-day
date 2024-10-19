@@ -373,7 +373,10 @@
 `FMF`: Fault Management Framework
 * AUTOSAR\_EXP\_ApplicationLevelErrorHandling.pdf, p. 49
 
-`FTT`: Fault Tolerant Time
+`FS`: Functional Safety
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 59
+
+`FTT`: Fault Tolerance Time
 * AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 15, p. 22
 
 `FTTI`: Fault Tolerant Time Interval
@@ -549,6 +552,7 @@
 
 `MCAL`: Microcontroller Abstraction Layer
 * AUTOSAR\_EXP\_VFB.pdf, p. 69
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 57
 
 `MDF`: Measuremend Data Format
 * AUTOSAR\_EXP\_ClassicPlatformARTI.pdf, p. 10
@@ -576,6 +580,7 @@
 
 `MPU`: Memory Protection Unit
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 17
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 57
 
 `MSTP`: Microcontroller Specific Test Package
 * AUTOSAR\_EXP\_FunctionalSafetyMeasures.pdf, p. 92
@@ -614,6 +619,9 @@
 
 `OccptPedSfty`: Occupant and Pedestrian Safety
 * AUTOSAR\_EXP\_AIUserGuide.pdf, p. 44
+
+`oc`: Open Circuit
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 59
 
 `OCU`: ?
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 33
@@ -778,6 +786,9 @@
 
 `SBR`: Seat Belt Reminder
 * AUTOSAR\_EXP\_AIOccupantAndPedestrianSafety.pdf, p. 5
+
+`sc`: Short Circuit
+* AUTOSAR\_EXP\_SafetyUseCase.pdf, p. 59
 
 `SchM`: (Basic Software) Scheduler Manager
 * AUTOSAR\_EXP\_BSWDistributionGuide.pdf, p. 10, p. 13, p. 20, p. 27
