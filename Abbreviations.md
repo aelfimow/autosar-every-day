@@ -199,6 +199,12 @@
 `CP`: ?
 * AUTOSAR\_EXP\_CPSwClusterDesignAndIntegrationGuideline.pdf, p. 18
 
+`CRYIF`: Crypto Interface
+* AUTOSAR\_EXP\_UtilizationOfCryptoServices.pdf, p. 6
+
+`CRYPTO`: Crypto Driver
+* AUTOSAR\_EXP\_UtilizationOfCryptoServices.pdf, p. 6
+
 `CrsCtrlAndAcc`: Cruise Control and Adaptive Cruise Control
 * AUTOSAR\_EXP\_AIChassis.pdf, p. 25
 
@@ -812,6 +818,9 @@
 
 `SF`: Single Frame
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 106
+
+`SHE`: Security Hardware Extension
+* AUTOSAR\_EXP\_UtilizationOfCryptoServices.pdf, p. 6
 
 `SoAd`: Socket Adapter
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 62
