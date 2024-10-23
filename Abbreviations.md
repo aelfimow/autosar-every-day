@@ -555,6 +555,7 @@
 
 `MAC`: Message Authentication Code
 * AUTOSAR\_EXP\_LayeredSoftwareArchitecture.pdf, p. 178
+* AUTOSAR\_EXP\_UtilizationOfCryptoServices.pdf, p. 15
 
 `MCAL`: Microcontroller Abstraction Layer
 * AUTOSAR\_EXP\_VFB.pdf, p. 69
